@@ -1,0 +1,13 @@
+{
+  "spec_dir": "spec",
+  "spec_files": [
+    "jam_buddy_spec.js","dom_manipulation_spec.js"
+  ],
+  "helpers": [
+    "src/helper_*js"
+  ],
+  "env": {
+    "stopSpecOnExpectationFailure": false,
+    "random": true
+  }
+}
